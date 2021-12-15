@@ -1,4 +1,4 @@
-## Olá, Meu nome e Daybison Braga
+## Olá, Meu nome é Daybison Braga
 <div style="display:inline_block">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://www.abrafi.org.br/js/ckeditor/foto_internas/Ideias.png?width=676&height=676">
  </div>
