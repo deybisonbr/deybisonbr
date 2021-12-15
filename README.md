@@ -1,4 +1,8 @@
 ## Olá, Meu nome e Daybison Braga
+<div style="display:inline_block">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://www.abrafi.org.br/js/ckeditor/foto_internas/Ideias.png?width=676&height=676">
+ </div>
+  
 - ✔ Atualmento estou estudando HTML, CSS e JavaScript.</br>
 - 🐱‍🏍 Meu intuito é trabalhar como um Desenvolvedor Front-end. </br>
 - ❤ Sou apaixonado por tecnologia, Tenho com objetivo mudar a vida das pessoas com a programação.
@@ -16,6 +20,6 @@
 </div>
   
 ## Redes Sociais
-[![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daybison-br/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deybisonbraga/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@deybisonb?)
+  [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daybison-br/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deybisonbraga/)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@deybisonb?)
