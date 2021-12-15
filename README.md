@@ -23,3 +23,4 @@
   [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daybison-br/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deybisonbraga/)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@deybisonb?)
+  [![Gmail](https://img.shields.io/badge/Gmail-ff7200?style=for-the-badge&logo=Gmail&logoColor=white)](deybisonbraga@gmail.com)
