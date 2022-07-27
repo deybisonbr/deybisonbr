@@ -12,6 +12,8 @@
   <img align="center" alt="daybison-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="daybison-Node.js" src="https://img.shields.io/badge/Node.js-sucess?style=for-the-badge&logo=Node.js&logoColor=white">
    <img align="center" alt="daybison-React" src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="daybison-MongoDB" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img align="center" alt="daybison-MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
 ##
