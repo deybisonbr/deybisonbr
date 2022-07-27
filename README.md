@@ -3,7 +3,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://www.abrafi.org.br/js/ckeditor/foto_internas/Ideias.png?width=676&height=676">
  </div>
   
-- ✔ Atualmento estou estudando HTML, CSS e JavaScript.</br>
+- ✔ Desenvolvedor Front End, ultilizo as tecnologias HTML, CSS, Javascript, React</br>
 - 🐱‍🏍 Meu intuito é trabalhar como um Desenvolvedor Front-end. </br>
 - ❤ Sou apaixonado por tecnologia, Tenho com objetivo mudar a vida das pessoas com a programação.
 <div style="display: inline_block"><br>
