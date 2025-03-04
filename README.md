@@ -10,11 +10,11 @@ Sou um **Desenvolvedor Java**, com sólida experiência em **React** e **Node.js
 
 ### Ferramentas e Tecnologias que utilizo:
 <div style="text-align: center;">
-  <img align="center" alt="daybison-JAVA" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
+  <img align="center" alt="daybison-JAVA" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=coffeescript&logoColor=black">
   <img align="center" alt="daybison-Node.js" src="https://img.shields.io/badge/Node.js-6CC24A?style=for-the-badge&logo=Node.js&logoColor=black">
   <img align="center" alt="daybison-React" src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="daybison-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="daybison-Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img align="center" alt="daybison-Oracle" src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=databricks&logoColor=white">
   <img align="center" alt="daybison-MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=black">
 </div>
 
